@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Follies of Comb Architecture: Part I</title>
+	<atom:link href="/peaty/follies-of-comb-architecture-part-i/feed/" rel="self" type="application/rss+xml" />
+	<link>/peaty/follies-of-comb-architecture-part-i/</link>
+	<description></description>
+	<lastBuildDate>Mon, 22 Jul 2013 18:18:13 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.4.17</generator>
+	<item>
+		<title>By: B.B. Lakes</title>
+		<link>/peaty/follies-of-comb-architecture-part-i/#comment-5</link>
+		<dc:creator><![CDATA[B.B. Lakes]]></dc:creator>
+		<pubDate>Sat, 24 Nov 2012 17:12:16 +0000</pubDate>
+		<guid isPermaLink="false">/?p=482#comment-5</guid>
+		<description><![CDATA[From Wikipedia&#039;s page on WASPS:
+http://en.wikipedia.org/wiki/File:Polo_2830850416_eb526aac25_o.jpg]]></description>
+		<content:encoded><![CDATA[<p>From Wikipedia&#8217;s page on WASPS:<br />
+<a href="http://en.wikipedia.org/wiki/File:Polo_2830850416_eb526aac25_o.jpg" rel="nofollow">http://en.wikipedia.org/wiki/File:Polo_2830850416_eb526aac25_o.jpg</a></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: B.B. Lakes</title>
+		<link>/peaty/follies-of-comb-architecture-part-i/#comment-4</link>
+		<dc:creator><![CDATA[B.B. Lakes]]></dc:creator>
+		<pubDate>Sat, 24 Nov 2012 17:10:55 +0000</pubDate>
+		<guid isPermaLink="false">/?p=482#comment-4</guid>
+		<description><![CDATA[http://entomology.cornell.edu/cals/entomology/extension/youth/upload/Wasps-of-NYS.pdf]]></description>
+		<content:encoded><![CDATA[<p><a href="http://entomology.cornell.edu/cals/entomology/extension/youth/upload/Wasps-of-NYS.pdf" rel="nofollow">http://entomology.cornell.edu/cals/entomology/extension/youth/upload/Wasps-of-NYS.pdf</a></p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
